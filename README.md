@@ -27,6 +27,5 @@
 <br>
 <br>
 <br>
-  ![snake gif](https://github.com/jeff0proprio-contribution-grid-snake.gif)
 
 **»——————————————————◦•♦•◦——————————————————«**
